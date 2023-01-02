@@ -6,10 +6,10 @@ import os
 
 class Config(object):
     API_ID = int(os.getenv("API_ID", "24634730"))
-    API_HASH = os.getenv("API_HASH", "adcd045cb57c22169f03b082979fcf63)
+    API_HASH = os.getenv("API_HASH", "adcd045cb57c22169f03b082979fcf63")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5469439944:AAFlL-_eYBcXclR-6FLlA8-8wLr6Q_Bsg2I")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "MdiskSearchBot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQCmPK-T7b9mij3J07UPsTqzQCC6ihEDPoU1Dlg6HEDS96YZt7dgJaVrtN2T_vHa1TU90ZcfRBg2iOY12WyJNbpkUGfcy5u_SSaIWrdLtXKwAvs9SSOBuTZyZjDQGe6XZNjuxPgAA2xb2-N8YMNfiW0uHJc0aqP6zKHS58IdVV3PPiV0QAuH2RHme1h-VSRA0MYVzu7Kjh4nC7u03dkjZuQgDqFN1MXfx_xDlhAqxCeVhwa0YCCaoWQX-ER0xwFelnrp_7XrZZYw4JyFssSgyKacNqPWWu0k4dpZBXDMFu7oqy2D49L1fAL8wWqoQfyrLHj0b0mPyfDgInZf326CLcTXeXjjvgA)
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQCmPK-T7b9mij3J07UPsTqzQCC6ihEDPoU1Dlg6HEDS96YZt7dgJaVrtN2T_vHa1TU90ZcfRBg2iOY12WyJNbpkUGfcy5u_SSaIWrdLtXKwAvs9SSOBuTZyZjDQGe6XZNjuxPgAA2xb2-N8YMNfiW0uHJc0aqP6zKHS58IdVV3PPiV0QAuH2RHme1h-VSRA0MYVzu7Kjh4nC7u03dkjZuQgDqFN1MXfx_xDlhAqxCeVhwa0YCCaoWQX-ER0xwFelnrp_7XrZZYw4JyFssSgyKacNqPWWu0k4dpZBXDMFu7oqy2D49L1fAL8wWqoQfyrLHj0b0mPyfDgInZf326CLcTXeXjjvgA")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001488381599")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "MdiskSearchBot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "2037965758"))
@@ -30,7 +30,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
     UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001249072794")
-    DATABASE_URL = os.getenv("DATABASE_URL","mongodb+srv://Hazal:<afre6308>@cluster0.ts0f2eo.mongodb.net/?retryWrites=true&w=majority")
+    DATABASE_URL = os.getenv("DATABASE_URL","mongodb+srv://Hazal:Hazal@cluster0.ts0f2eo.mongodb.net/?retryWrites=true&w=majority")
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001862334721"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
@@ -66,7 +66,7 @@ i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅ
 
 https://t.me/+GtNjG7Nqzwg4OTQ1
 
-https://t.me/+GtNjG7Nqzwg4OTQ1                              
+https://t.me/+GtNjG7Nqzwg4OTQ1 """                              
                                     
     ABOUT_MDISK_TEXT = """
 𝗠𝗱𝗶𝘀𝗸 𝗸𝗶 𝗹𝗶𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
